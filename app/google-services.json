@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827362174691",
+    "project_id": "mtsdatabase-2b32c",
+    "storage_bucket": "mtsdatabase-2b32c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827362174691:android:8944214c5a0d29754dc7d6",
+        "android_client_info": {
+          "package_name": "mts.build.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827362174691-5ndo71nqir2sr31ksjdvnj2f573fsgo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSrvRsPoNoO9m1Lix_uqypLnPRn0iu2_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827362174691-5ndo71nqir2sr31ksjdvnj2f573fsgo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
